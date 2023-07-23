@@ -2,7 +2,7 @@
 
 <lastupdateYYMMDD>230723</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://dl.dropboxusercontent.com/s/l5rl8zdyxbuvscv/version.txt</versionurl>
+<versionurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/version.txt</versionurl>
 <updateurl>https://dl.dropboxusercontent.com/s/zez5ybnu6vwymti/updatelist.txt</updateurl>
 <message>New Link, new structure. Now with 100% less crashes! (...only when engaged)</message>
 
