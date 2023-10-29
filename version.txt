@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230723</lastupdateYYMMDD>
+<lastupdateYYMMDD>290723</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/updatelist.txt</updateurl>
-<message>New Link, new structure. Now with 78% less crashes! (...only when engaged)</message>
+<message>I am sorta back after almost a month, so here is finally the fix I promised (to the bug no one even noticed that was there to begin with). Also adds new cards and most importantly of all things, a playmat (appropriately named "EngagePlaymat"). You're welcome Retrop :) </message>
 
 </version>
