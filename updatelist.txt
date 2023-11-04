@@ -1,4 +1,4 @@
-FECipher0CS	08-29-23
+FECipher0CS	11-04-23
 plugins/FECipher0CS/version.txt	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/version.txt	35232
 plugins/FECipher0CS/formats.txt	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/formats.txt	257390
 plugins/FECipher0CS/plugininfo.txt	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/plugininfo.txt	336366
