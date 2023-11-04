@@ -4,12 +4,12 @@ plugins/FECipher0CS/formats.txt	https://raw.githubusercontent.com/FERanu/FeCusto
 plugins/FECipher0CS/plugininfo.txt	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/plugininfo.txt	336366
 plugins/FECipher0CS/uninstall.txt	https://dl.dropboxusercontent.com/s/78blqth7om4hd4q/uninstall.txt	9734
 plugins/FECipher0CS/CardImageURLs1.txt	https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt	493194
-plugins/FECipher0CS/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	4161696
+plugins/FECipher0CS/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	4228083
 plugins/FECipher0CS/CardImageURLs3.txt	https://dl.dropboxusercontent.com/s/z3fet7lcojsrwmf/CardImageURLs3.txt	30820596
 plugins/FECipher0CS/CardImageURLs4.txt	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/CardImageURLs4.txt	516288
 plugins/FECipher0CS/defaultchat.txt	https://dl.dropboxusercontent.com/s/vfwbqce44o7npkc/defaultchat.txt	14975
 plugins/FECipher0CS/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x3rzwap53ohys5/cardback.jpg	-149634
-plugins/FECipher0CS/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	20356235
+plugins/FECipher0CS/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	20373791
 plugins/FECipher0CS/sets/official-cards.txt	https://dl.dropboxusercontent.com/s/xjcvz08rfi30soy/official-cards.txt	99157283
 plugins/FECipher0CS/sets/specials-tokens.txt	https://dl.dropboxusercontent.com/s/8i0xsjotwypddqb/specials-tokens.txt	504983
 plugins/FECipher0CS/sets/custom-cardsCS.txt	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/custom-cardsCS.txt	5065787
