@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>290723</lastupdateYYMMDD>
+<lastupdateYYMMDD>041123</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/updatelist.txt</updateurl>
-<message>I am sorta back after almost a month, so here is finally the fix I promised (to the bug no one even noticed that was there to begin with). Also adds new cards and most importantly of all things, a playmat (appropriately named "EngagePlaymat"). You're welcome Retrop :) </message>
+<message> Yes, this plugin is kept up to date, believe it or not. Also in case you are visiting to do some testing, may I interest you in using the official EngageTM Playmat. You can find it in your playmat folder under EngagePlaymat. Enjoy :)  </message>
 
 </version>
