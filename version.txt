@@ -4,6 +4,6 @@
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/updatelist.txt</updateurl>
-<message> Yes, this plugin is kept up to date, believe it or not. Also in case you are visiting to do some testing, may I interest you in using the official EngageTM Playmat. You can find it in your playmat folder under EngagePlaymat. Enjoy :)  </message>
+<message> In case you are visiting to do some testing, may I interest you in using the official EngageTM Playmat? You can find it in your playmat folder under EngagePlaymat. Enjoy :)  </message>
 
 </version>
