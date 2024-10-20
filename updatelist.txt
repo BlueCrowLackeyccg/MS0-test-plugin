@@ -43,7 +43,7 @@ plugins/MS0-test-plugin/packs/B19.png	https://dl.dropboxusercontent.com/s/p1kqhx
 plugins/MS0-test-plugin/packs/B20.png	https://dl.dropboxusercontent.com/s/zp3kgwio28sacp4/B20.png	5505231
 plugins/MS0-test-plugin/packs/B21.png	https://dl.dropboxusercontent.com/s/vllvqewettcv3h0/B21.png	5670337
 plugins/MS0-test-plugin/packs/B22.png	https://dl.dropboxusercontent.com/s/3riww9ekcpzbnuh/B22.png	5643755
-images/backgrounds/SUPER_SAMTO_HELL.png	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/EngagePlaymat.png	-975408
+images/backgrounds/SUPER_SAMTO_HELL.png	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/SUPER_SAMTO_HELL.png	-975408
 
 CardURLFiles:	
 CardImageURLs1.txt
