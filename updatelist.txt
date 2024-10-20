@@ -6,7 +6,7 @@ plugins/MS0-test-plugin/uninstall.txt	https://dl.dropboxusercontent.com/s/78blqt
 plugins/MS0-test-plugin/CardImageURLs1.txt	https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt	493194
 plugins/MS0-test-plugin/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	7977636
 plugins/MS0-test-plugin/CardImageURLs3.txt	https://dl.dropboxusercontent.com/s/z3fet7lcojsrwmf/CardImageURLs3.txt	30820596
-plugins/MS0-test-plugin/CardImageURLs4.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/CardImageURLs4.txt	460436
+plugins/MS0-test-plugin/CardImageURLs4.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/CardImageURLs4.txt	465286
 plugins/MS0-test-plugin/defaultchat.txt	https://dl.dropboxusercontent.com/s/vfwbqce44o7npkc/defaultchat.txt	14975
 plugins/MS0-test-plugin/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x3rzwap53ohys5/cardback.jpg	-149634
 plugins/MS0-test-plugin/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	33286733
