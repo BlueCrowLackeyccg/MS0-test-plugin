@@ -1,6 +1,6 @@
 <plugin>
 
-<pluginname>FECipher0CS</pluginname>
+<pluginname>FE0 Grand Legacy Test</pluginname>
 
 <deckzone>
 	<label>Deck</label>
