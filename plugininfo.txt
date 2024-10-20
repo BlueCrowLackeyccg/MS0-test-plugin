@@ -1,6 +1,6 @@
 <plugin>
 
-<pluginname>FE0 Grand Legacy Test</pluginname>
+<pluginname>MS0-test-plugin</pluginname>
 
 <deckzone>
 	<label>Deck</label>
