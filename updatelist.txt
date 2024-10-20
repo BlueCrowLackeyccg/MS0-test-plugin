@@ -1,21 +1,21 @@
-MS0-test-plugin	11-04-23
-plugins/MS0-test-plugin/version.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/version.txt	-1
-plugins/MS0-test-plugin/formats.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/formats.txt	-1
-plugins/MS0-test-plugin/plugininfo.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/plugininfo.txt	-1
+FECipher0CS	11-04-23
+plugins/MS0-test-plugin/version.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/version.txt	32233
+plugins/MS0-test-plugin/formats.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/formats.txt	258611
+plugins/MS0-test-plugin/plugininfo.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/plugininfo.txt	337214
 plugins/MS0-test-plugin/uninstall.txt	https://dl.dropboxusercontent.com/s/78blqth7om4hd4q/uninstall.txt	9734
-plugins/MS0-test-plugin/CardImageURLs1.txt    https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt    493194
-plugins/MS0-test-plugin/CardImageURLs2.txt    https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt    7977636
-plugins/MS0-test-plugin/CardImageURLs3.txt    https://dl.dropboxusercontent.com/s/z3fet7lcojsrwmf/CardImageURLs3.txt    30820596
-plugins/MS0-test-plugin/CardImageURLs4.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/CardImageURLs4.txt	-1
+plugins/MS0-test-plugin/CardImageURLs1.txt	https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt	493194
+plugins/MS0-test-plugin/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	7977636
+plugins/MS0-test-plugin/CardImageURLs3.txt	https://dl.dropboxusercontent.com/s/z3fet7lcojsrwmf/CardImageURLs3.txt	30820596
+plugins/MS0-test-plugin/CardImageURLs4.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/CardImageURLs4.txt	516288
 plugins/MS0-test-plugin/defaultchat.txt	https://dl.dropboxusercontent.com/s/vfwbqce44o7npkc/defaultchat.txt	14975
 plugins/MS0-test-plugin/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x3rzwap53ohys5/cardback.jpg	-149634
-plugins/MS0-test-plugin/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	20373791
-plugins/MS0-test-plugin/sets/official-cards.txt	https://dl.dropboxusercontent.com/s/xjcvz08rfi30soy/official-cards.txt	99157283
+plugins/MS0-test-plugin/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	33286733
+plugins/MS0-test-plugin/sets/official-cards.txt	https://dl.dropboxusercontent.com/s/xjcvz08rfi30soy/official-cards.txt	99173992
 plugins/MS0-test-plugin/sets/specials-tokens.txt	https://dl.dropboxusercontent.com/s/8i0xsjotwypddqb/specials-tokens.txt	504983
-plugins/MS0-test-plugin/sets/custom-cardsCS.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/custom-cardsCS.txt	5065787
+plugins/MS0-test-plugin/sets/custom-cardsCS.txt	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/custom-cardsCS.txt	2296257
 images/backgrounds/defaultbackground.jpg	https://dl.dropboxusercontent.com/s/g1vfzlulouzblg6/defaultbackground.jpg	-1136987
 images/backgrounds/8PlayerArenaMat.png	https://dl.dropboxusercontent.com/s/2a9jn0vwzku3w3o/8PlayerArenaMat.png	-919386
-images/backgrounds/EngagePlaymat.png	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/EngagePlaymat.png	-497444
+images/backgrounds/EngagePlaymat.png	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/EngagePlaymat.png	0
 images/zonebackgrounds/DeckArea.png	https://dl.dropboxusercontent.com/s/1a4rjwwdz1ptqwj/DeckArea.png	-30452
 images/zonebackgrounds/DeckArea2.png	https://dl.dropboxusercontent.com/s/o771qh06yqo0rbd/DeckArea2.png	-143233
 images/zonebackgrounds/DeckArea3.png	https://dl.dropboxusercontent.com/s/zg6qat3bybk2v10/DeckArea3.png	-132961
