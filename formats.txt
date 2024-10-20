@@ -57,6 +57,7 @@
 	<set>S10</set>
 	<set>S11</set>
 	<set>S12</set>
+	<set>MS01</set>
 	<set>PBK</set>
 	<set>PBM</set>
 	<set>Dynamite</set>
