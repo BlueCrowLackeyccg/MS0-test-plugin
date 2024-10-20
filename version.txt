@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>231104</lastupdateYYMMDD>
+<lastupdateYYMMDD>241020</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/updatelist.txt</updateurl>
-<message> In case you are visiting to do some testing, may I interest you in using the official EngageTM Playmat? You can find it in your playmat folder under EngagePlaymat. Enjoy :)  </message>
+<versionurl>https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/updatelist.txt</updateurl>
+<message> "EVERYONE IS HERE!"  </message>
 
 </version>
