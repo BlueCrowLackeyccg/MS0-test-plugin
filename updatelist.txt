@@ -1,4 +1,4 @@
-FECipher0CS	11-04-23
+MS0-test-plugin	11-04-23
 plugins/MS0-test-plugin/version.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/version.txt	32233
 plugins/MS0-test-plugin/formats.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/formats.txt	258611
 plugins/MS0-test-plugin/plugininfo.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/plugininfo.txt	337214
