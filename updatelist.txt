@@ -12,7 +12,7 @@ plugins/MS0-test-plugin/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x
 plugins/MS0-test-plugin/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	33286733
 plugins/MS0-test-plugin/sets/official-cards.txt	https://dl.dropboxusercontent.com/s/xjcvz08rfi30soy/official-cards.txt	99173992
 plugins/MS0-test-plugin/sets/specials-tokens.txt	https://dl.dropboxusercontent.com/s/8i0xsjotwypddqb/specials-tokens.txt	504983
-plugins/MS0-test-plugin/sets/custom-cardsCS.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/custom-cardsCS.txt	2291528
+plugins/MS0-test-plugin/sets/custom-cardsCS.txt	https://raw.githubusercontent.com/BlueCrowLackeyccg/MS0-test-plugin/main/custom-cardsCS.txt	2279560
 images/backgrounds/defaultbackground.jpg	https://dl.dropboxusercontent.com/s/g1vfzlulouzblg6/defaultbackground.jpg	-1136987
 images/backgrounds/8PlayerArenaMat.png	https://dl.dropboxusercontent.com/s/2a9jn0vwzku3w3o/8PlayerArenaMat.png	-919386
 images/backgrounds/EngagePlaymat.png	https://raw.githubusercontent.com/FERanu/FeCustom0-Lackey/main/EngagePlaymat.png	0
